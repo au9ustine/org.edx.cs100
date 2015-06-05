@@ -55,3 +55,7 @@ docs/_build/
 
 # PyBuilder
 target/
+data/*
+cs100_py_env/*
+.ipynb_checkpoints/*
+*.zip
